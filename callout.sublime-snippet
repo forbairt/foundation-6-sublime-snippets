@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<div class="callout${1: small large}${2: secondary success alert warning}" ${3:data-closable}>
+	<h5>${5:Callout Title}</h5>
+	<p>$0</p>
+
+	${4:<button class="close-button" aria-label="Dismiss alert" type="button" data-close><span aria-hidden="true">&times;</span></button>}
+</div>
+]]></content>
+  <tabTrigger>f-callout</tabTrigger>
+  <description>Add a callout container for Foundation 6</description>
+  <scope>source.php, text.html</scope>
+</snippet>
