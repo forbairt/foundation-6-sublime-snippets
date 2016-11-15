@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
-<!-- align-right nested simple -->
+<!-- align-right nested simple icon-top -->
 <ul class="menu${1: vertical}">
-  ${2:<li class="menu-text">Site Title</li>}
-  <li><a href="#">${3:One}</a></li>
-  <li><a href="#">${4:Two}</a></li>
-  <li><a href="#">${5:Three}</a></li>
+  ${2:<li class="menu-text">Title</li>}
+  <li${3: class="active"}><a href="#">${4:One}</a></li>
+  <li><a href="#">${5:Two}</a></li>
+  <li><a href="#">${6:Three}</a></li>
 </ul>
 ]]></content>
   <tabTrigger>f-menu</tabTrigger>
