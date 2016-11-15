@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<!-- align-right nested simple -->
+<ul class="menu${1: vertical}">
+  ${2:<li class="menu-text">Site Title</li>}
+  <li><a href="#">${3:One}</a></li>
+  <li><a href="#">${4:Two}</a></li>
+  <li><a href="#">${5:Three}</a></li>
+</ul>
+]]></content>
+  <tabTrigger>f-menu</tabTrigger>
+  <description>Add a menu for Foundation 6</description>
+  <scope>source.php, text.html</scope>
+</snippet>
