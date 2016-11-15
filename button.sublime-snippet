@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a class="button${1: tiny small large expanded}${2: secondary success alert warning disabled hollow}" href="#">${3:link}</a>
+]]></content>
+  <tabTrigger>f-button</tabTrigger>
+  <description>Add a button / link for Foundation 6</description>
+  <scope>source.php, text.html</scope>
+</snippet>
