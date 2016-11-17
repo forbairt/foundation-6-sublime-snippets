@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="row">
+	<div class="large-${1:4} columns">$0</div>
+	<div class="large-${2:4} columns"></div>
+	<div class="large-${3:4} columns${4: end}"></div>
+</div>
+]]></content>
+  <tabTrigger>f-row3</tabTrigger>
+  <description>New Row with 3/three columns for Foundation 6.0</description>
+  <scope>source.php, text.html</scope>
+</snippet>
