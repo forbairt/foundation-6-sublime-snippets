@@ -1,12 +1,11 @@
 <snippet>
   <content><![CDATA[
 <div class="row">
-  <div class="large-6 columns">$0</div>
-  <div class="large-6 columns"></div>
+	<div class="large-${1:6} columns">$0</div>
+	<div class="large-${2:6} columns"></div>
 </div>
 ]]></content>
   <tabTrigger>f-row2</tabTrigger>
   <description>New Row with two columns for Foundation 6.0</description>
   <scope>source.php, text.html</scope>
 </snippet>
-
