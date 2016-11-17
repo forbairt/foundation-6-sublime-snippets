@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%3E%3Crect x%3D'0' y%3D'0' width%3D'300' height%3D'200' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="300" height="200" />
+<h3>Product 1</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<a class="button success" href="#">Buy</a>
+]]></content>
+  <tabTrigger>f-product</tabTrigger>
+  <description>Product Snippet with image / header / description / Buy Button for Foundation 6.0</description>
+  <scope>source.php, text.html</scope>
+</snippet>
+
