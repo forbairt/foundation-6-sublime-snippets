@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<ul class="vertical menu" data-accordion-menu>
+	<li><a href="#">${1:Home}</a></li>
+	<li><a href="#">${2:About Us}</a>
+	    ${3:<ul class="menu vertical nested${4: is-active}">
+			<li><a href="#">${5:The Team}</a></li>
+			<li><a href="#">${6:The Company}</a></li>
+    	</ul>}
+    </li>
+</ul>
+]]></content>
+  <tabTrigger>f-accordion</tabTrigger>
+  <description>Add a callout container for Foundation 6</description>
+  <scope>source.php, text.html</scope>
+</snippet>
+
