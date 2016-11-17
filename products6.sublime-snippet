@@ -1,0 +1,46 @@
+<snippet>
+  <content><![CDATA[
+<div class="row">
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 1</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 2</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 3</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 4</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 5</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+	<div class="large-2 columns">
+		<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 200 120'%3E%3Crect x%3D'0' y%3D'0' width%3D'200' height%3D'120' fill%3D'%23CCCCCC'%2F%3E%3C%2Fsvg%3E" class="thumbnail" width="200" height="140" />
+		<h4>Product 6</h4>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<a class="button success" href="#">Buy</a>
+	</div>
+</div>
+]]></content>
+  <tabTrigger>f-products6</tabTrigger>
+  <description>New Row with Column for Foundation 6.0</description>
+  <scope>source.php, text.html</scope>
+</snippet>
+
