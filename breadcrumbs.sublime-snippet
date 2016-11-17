@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<nav aria-label="You are here:" role="navigation">
+	<ul class="breadcrumbs">
+		<li><a href="#">Home</a></li>
+		<li><a href="#">${1:About Us}</a></li>
+		<li><span class="show-for-sr">Current: </span> ${2:The Team}</li>
+	</ul>
+</nav>
+]]></content>
+  <tabTrigger>f-breadcrumbs</tabTrigger>
+  <description>Breadcrumbs for Foundation 6.0</description>
+  <scope>source.php, text.html</scope>
+</snippet>
+
