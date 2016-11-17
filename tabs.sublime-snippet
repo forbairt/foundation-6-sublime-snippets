@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+<ul class="tabs" data-tabs id="${1:mytabs}">
+	<li class="tabs-title is-active"><a href="#mypanel1" aria-selected="true">${2:Tab 1}</a></li>
+	<li class="tabs-title"><a href="#mypanel2">${3:Tab 2}</a></li>
+	<li class="tabs-title"><a href="#mypanel3">${4:Tab 3}</a></li>
+</ul>
+
+<div class="tabs-content" data-tabs-content="$1">
+	<div class="tabs-panel is-active" id="mypanel1">
+		Tab 1
+	</div>
+	<div class="tabs-panel" id="mypanel2">
+		Tab 2
+	</div>
+	<div class="tabs-panel" id="mypanel3">
+    	Tab 3
+	</div>
+</div>
+]]></content>
+  <tabTrigger>f-tabs</tabTrigger>
+  <description>Add horizontal tabs for Foundation 6</description>
+  <scope>source.php, text.html</scope>
+</snippet>
+
